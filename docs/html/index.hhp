@@ -1,0 +1,37 @@
+[OPTIONS]
+Compiled file=PyEpocHelp.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.htm
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=PyEpoc
+
+[WINDOWS]
+main="PyEpoc","index.hhc","index.hhk","index.htm","index.htm",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+index.htm
+pages.htm
+test.htm
+todo.htm
+annotated.htm
+classes.htm
+functions.htm
+functions_func.htm
+namespaces.htm
+namespace_py_epoc.htm
+class_py_epoc_1_1_epoc_handler.htm
+class_py_epoc_1_1_epoc_handler-members.htm
+class_py_epoc_1_1_input_sensor_descriptor.htm
+struct_py_epoc_1_1_input_sensor_descriptor-members.htm
+namespacemembers.htm
+namespacemembers_vars.htm
+tabs.css
+tab_b.gif
+tab_l.gif
+tab_r.gif
+open.gif
+closed.gif
