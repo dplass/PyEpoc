@@ -1,4 +1,4 @@
-PyEpoc by Morten André Steinsland <morten.a.steinsland@gmail.com>
+ï»¿PyEpoc by Morten A Steinsland <morten.a.steinsland@gmail.com>
 
 PyEpoc is an attempt to make a Python wrapper for the Emotiv Epoc SDK headset. 
 
